@@ -6,7 +6,7 @@ public class dz22 {
         System.out.println("vvedi 4islo bol'she 9 menishe 100");
         Scanner number1 = new Scanner(System.in);
         int n = number1.nextInt();
-        while (n<10||n>99) {
+        while (n<10||n>98) {
             Scanner number2 = new Scanner(System.in);
             n = number1.nextInt();
         }
